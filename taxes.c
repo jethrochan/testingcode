@@ -1,5 +1,4 @@
-//Jethro Chan
-//Anthony Le
+/*Written by Jethro Chan and Anthony Le*/
 
 #include <stdio.h>
 #include <math.h>
