@@ -1,5 +1,4 @@
 //Jethro Chan
-//Anthony Le
 
 #include <stdio.h>
 
